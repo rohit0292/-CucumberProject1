@@ -1,37 +1,37 @@
 $(document).ready(function() {
 CucumberHTML.timelineItems.pushArray([
   {
-    "id": "635a3f47-ee3d-424d-92d3-dff969a39f55",
+    "id": "2b213f67-76e3-45c3-ac8f-8ff345b8a442",
+    "feature": "My Account Page Feature",
+    "scenario": "Accounts page title",
+    "start": 1709920555664,
+    "group": 1,
+    "content": "",
+    "tags": "@accounts,",
+    "end": 1709920576897,
+    "className": "passed"
+  },
+  {
+    "id": "d0056a49-b431-4b51-b0b3-32f470200241",
+    "feature": "My Account Page Feature",
+    "scenario": "Accounts section count",
+    "start": 1709920576900,
+    "group": 1,
+    "content": "",
+    "tags": "@accounts,",
+    "end": 1709920588082,
+    "className": "passed"
+  },
+  {
+    "id": "0ff6bde7-3c81-46dd-8a2c-169ae6f4dd2d",
     "feature": "Login function",
     "scenario": "Verify Sucessful login with valid entries",
-    "start": 1707121821334,
+    "start": 1709920588085,
     "group": 1,
     "content": "",
     "tags": "",
-    "end": 1707121839393,
+    "end": 1709920602007,
     "className": "failed"
-  },
-  {
-    "id": "95e7800f-3687-4f5c-a342-6631c9a40eaf",
-    "feature": "My Account Page Feature",
-    "scenario": "Accounts page title",
-    "start": 1707121785182,
-    "group": 1,
-    "content": "",
-    "tags": "@accounts,",
-    "end": 1707121806789,
-    "className": "passed"
-  },
-  {
-    "id": "53a816f6-0914-4f1f-8650-04ddb929a5f0",
-    "feature": "My Account Page Feature",
-    "scenario": "Accounts section count",
-    "start": 1707121806794,
-    "group": 1,
-    "content": "",
-    "tags": "@accounts,",
-    "end": 1707121821331,
-    "className": "passed"
   }
 ]);
 CucumberHTML.timelineGroups.pushArray([

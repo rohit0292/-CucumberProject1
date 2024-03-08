@@ -1,0 +1,8 @@
+StepDefinations/AccountsPageSteps.class
+CucumberOptions/RunTest.class
+AppHooks/ApplicationHooks.class
+parallel/AccountsPageSteps.class
+StepDefinations/LoginSteps.class
+parallel/ApplicationHooks.class
+StepDefinations/Shipping_Address.class
+parallel/LoginSteps.class

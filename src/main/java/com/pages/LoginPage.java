@@ -34,7 +34,7 @@ WebElement txtPassword;
 WebElement btnLogin;
 
 
-@FindBy(xpath="//li[@class='customer-welcome'] //button")
+@FindBy(xpath="(//button[@type='button'])[1]")
 @CacheLookup
 WebElement WelcomeMenu;
 
